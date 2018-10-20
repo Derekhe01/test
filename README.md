@@ -2,14 +2,17 @@
 -------
 pip install "Django>=1.11,<=1.12"
 pip install pymysql
+
 启动django
 -------
 python3 manage.py runserver 0.0.0.0:8000
+
 登录并验证
 -------
 网址：IP:8000/cmdb
 用户名：admin
 密码： 123456
+
 执行cmd
 -------
 
